@@ -1,9 +1,7 @@
 
 <h1 align="center">Discord Raid Tool [Debug]</h1>
 
-```html
-<h1 style="color: #5e9ca0;"><span style="color: #ff6600;"><span style="color: #ccffff;">[</span><span style="color: #ff0000;">Outdated</span><span style="color: #ccffff;">]</span> the library used in this project is no longer working, with the update of the library I will re-write this program.</span></h1>
-```
+## The library used in this project is no longer working, with the update of the library I will re-write this program.
 
 # Features
 
