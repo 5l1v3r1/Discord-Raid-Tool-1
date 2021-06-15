@@ -1,6 +1,8 @@
 
 <h1 align="center">Discord Raid Tool [Debug]</h1>
 
+# [Outdated] the library used in this project is no longer working, with the update of the library I will re-write this program.
+
 # Features
 
 - [x] *Can load multipule tokens.*
